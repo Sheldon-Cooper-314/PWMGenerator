@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kulka/dsd-project/dsd-project.srcs/sim_1/new/pwm_shiftreg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ShiftReg
+INFO: [VRFC 10-311] analyzing module pwm_shiftreg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kulka/dsd-project/dsd-project.srcs/sim_1/new/pwm_shift_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_shift_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kulka/dsd-project/dsd-project.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

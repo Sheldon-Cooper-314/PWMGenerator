@@ -1,0 +1,41 @@
+Unable to capture context for thread 11952 in process 20736, can not generate back trace
+Unable to capture context for thread 44384 in process 20736, can not generate back trace
+Unable to capture context for thread 44052 in process 20736, can not generate back trace
+Unable to capture context for thread 36816 in process 20736, can not generate back trace
+Exception at PC 0x00007FFCB81EBB93
+Printing stacktrace...
+
+Unable to capture context for thread 44052 in process 20736, can not generate back trace
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+[0]  [0x00007FFCB81EBB93]
+[1]  [0x00007FFCB81EBB93]
+[2]  [0x00007FFCB81EB4A1]
+[3]  [0x00007FFCB81EB459]
+[4]  [0x00007FFCB81D19FE]
+[5]  [0x00007FFCB81D0ED1]
+[6]  [0x00007FFCB81D0D76]
+[7]  [0x00007FFCB81779F6]
+[8]  [0x00007FFCB8167AFB]
+[9]  [0x00007FFCB828E90A]
+[10]  [0x00007FFCB82A9F87]
+[11]  [0x00007FFCB82AA05F]
+[12] (BaseThreadInitThunk+0x1d) [0x00007FFDABC026BD]
+[13] (RtlUserThreadStart+0x28) [0x00007FFDACFCDFB8]
+Done
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
+Exception at PC 0x00007FFDAA7006BC
